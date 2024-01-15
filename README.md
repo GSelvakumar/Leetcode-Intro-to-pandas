@@ -1,6 +1,7 @@
-# Leetcode-Intro-to-pandas
- Leetcode Solutions for Introduction to Pandas - Clearly Explained 
+<h1 align="center">Leetcode Introduction to pandas</h1>
 
- By solving this will able to receive the **Pandas Badge**
+<h4 align="center">Leetcode Solutions for Introduction to Pandas - Clearly Explained</h4>
 
-![Pandas Badge](https://assets.leetcode.com/static_assets/others/Introduction_to_Pandas.gif)
+<h4 align="center">By solving this will able to receive the Pandas Badge</h4>
+
+<img align="center" src="https://assets.leetcode.com/static_assets/others/Introduction_to_Pandas.gif">
